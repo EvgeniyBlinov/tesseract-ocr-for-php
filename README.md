@@ -2,21 +2,12 @@
 
   A wrapper to work with TesseractOCR inside your PHP scripts.
 
-## Installation
+##Install
 
-  Via [composer](http://getcomposer.org/)
-  (https://packagist.org/packages/thiagoalessio/tesseract_ocr)
-
-    {
-        "require": {
-            "thiagoalessio/tesseract_ocr": ">= 0.2.0"
-        }
-    }
-
-  Or just clone and put somewhere inside your project folder.
-
-    $ cd myapp/vendor
-    $ git clone git://github.com/thiagoalessio/tesseract-ocr-for-php.git
+```sh
+composer config repositories.tesseract_ocr git https://github.com/EvgeniyBlinov/tesseract-ocr-for-php
+composer require "cent/tesseract_ocr:v0.2.1"
+```
 
 ### Dependencies
 

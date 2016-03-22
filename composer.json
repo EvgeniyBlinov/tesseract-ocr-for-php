@@ -1,5 +1,5 @@
 {
-    "name": "thiagoalessio/tesseract_ocr",
+    "name": "cent/tesseract_ocr",
     "type": "library",
     "version": "0.2.1",
     "description": "A wrapper to work with TesseractOCR inside PHP",
@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/thiagoalessio/tesseract-ocr-for-php"
+            "url": "https://github.com/EvgeniyBlinov/tesseract-ocr-for-php"
         }
     ],
     "autoload": {
